@@ -30,8 +30,12 @@
 ### 🔧 后端技能
 
 ![C#](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white&style=for-the-badge)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?logo=.net&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Flutter后端](https://img.shields.io/badge/-Flutter%20Backend-02569B?logo=flutter&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
+![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -86,7 +90,7 @@
 
 ---
 
-> “代码是我与世界对话的语言，而远程协作是我的生活方式。”
+> "代码是我与世界对话的语言，而远程协作是我的生活方式。"
 
 ---
 
