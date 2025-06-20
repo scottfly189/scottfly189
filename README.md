@@ -66,17 +66,17 @@
 
 | 技术领域   | 子项         | 熟练度⭐(1-5) | 备注                | 证明方式/近期项目           |
 | ------ | ---------- | --------- | ----------------- | --------------- |
-| 前端开发   | Vue/vue-i18n/element plus        | ⭐⭐⭐⭐⭐     | 大型项目实践   | [kvecotr权限框架](https://github.com/scottfly189/kvector)/膳中膳百业平台 |
-| 前端开发   | Nuxt       | ⭐⭐⭐⭐      | SSR/SPA项目经验       | GitHub项目        |
-| 前端开发   | Flutter    | ⭐⭐⭐⭐      | 多端统一UI开发          | Demo展示          |
-| 前端开发   | TypeScript | ⭐⭐⭐⭐      | 偏爱TS编写严谨代码        | GitHub源码        |
-| 小程序    | 微信小程序      | ⭐⭐⭐⭐⭐     | 多行业实战经验           | 小程序演示、云开发       |
-| 小程序    | 微信公众号H5    | ⭐⭐⭐⭐      | 与小程序互联互通经验        | 微信演示链接          |
-| 后端开发   | C# (.NET)  | ⭐⭐⭐⭐⭐     | Web API、高并发、SSE服务 | 项目源码、演示         |
+| 前端开发   | Vue/vue-i18n/element plus        | ⭐⭐⭐⭐⭐     | 大型项目实践   | [kvecotr权限框架](https://github.com/scottfly189/kvector)/膳中膳百业平台/pz建筑工程系统 |
+| 前端开发   | Nuxt       | ⭐⭐⭐⭐      | SSR/SPA项目经验       |[kvecotr权限框架](https://github.com/scottfly189/kvector)/projectzoom         |
+| 前端开发   | Flutter    | ⭐⭐⭐⭐⭐      | 多端统一UI开发          | projectzoom/物流智能扫码          |
+| 前端开发   | TypeScript | ⭐⭐⭐⭐      | 偏爱TS编写严谨代码        | [kvecotr权限框架](https://github.com/scottfly189/kvector) / 膳中膳百业平台        |
+| 小程序    | 微信小程序      | ⭐⭐⭐⭐⭐     | 多行业实战经验           | 膳中膳百业平台/危险废物管理系统       |
+| 小程序    | 微信公众号H5    | ⭐⭐⭐⭐      | 与小程序互联互通经验        | 膳中膳百业平台/危险废物管理系统          |
+| 后端开发   | C# (.NET)  | ⭐⭐⭐⭐⭐     | Web API、高并发、SSE服务 | [kvecotr权限框架] / 膳中膳百业平台 /projectzoom        |
 | 后端开发   | Node.js    | ⭐⭐⭐⭐      | Express/Koa开发经验   | GitHub代码        |
 | 架构     | 微服务        | ⭐⭐⭐⭐      | 模块解耦、Token鉴权等设计   | 架构图+源码          |
 | DevOps | CI/CD      | ⭐⭐⭐       | GitHub Actions经验  | 实战配置文件          |
-| 数据库    | SQL/MySQL  | ⭐⭐⭐⭐      | 熟练索引设计与查询优化       | 项目中的SQL脚本       |
+| 数据库    | MySQL/pg/no-sql  | ⭐⭐⭐⭐      | 熟练索引设计与查询优化       | 项目中的SQL脚本       |
 | 云服务    | 微信云开发      | ⭐⭐⭐⭐      | 云函数/数据库/小程序码      | 演示项目            |
 
 ---
