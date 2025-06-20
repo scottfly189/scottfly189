@@ -99,6 +99,7 @@
 
 - ✉️ 邮箱：alexzhao189@gmail.com 
 - ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge): [@flyscott424039](https://x.com/flyscott424039)
+- ![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge): [Facebook](https://www.facebook.com/share/19Ch4HpQJA/?mibextid=qi2Omg)
 
 ---
 
