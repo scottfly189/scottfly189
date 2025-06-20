@@ -98,7 +98,7 @@
 ## 📫 联系方式
 
 - ✉️ 邮箱：alexzhao189@gmail.com 
-- 💬 X: [x](https://x.com/flyscott424039)
+- ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge): [@flyscott424039](https://x.com/flyscott424039)
 
 ---
 
