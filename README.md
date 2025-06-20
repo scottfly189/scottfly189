@@ -36,6 +36,12 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge)
+![Semantic Kernel](https://img.shields.io/badge/-Semantic%20Kernel-0078D4?logo=microsoft&logoColor=white&style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/-Qdrant-000000?logo=qdrant&logoColor=white&style=for-the-badge)
+![Polly](https://img.shields.io/badge/-Polly-512BD4?logo=.net&logoColor=white&style=for-the-badge)
 
 ---
 
