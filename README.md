@@ -42,6 +42,10 @@
 ![Semantic Kernel](https://img.shields.io/badge/-Semantic%20Kernel-0078D4?logo=microsoft&logoColor=white&style=for-the-badge)
 ![Qdrant](https://img.shields.io/badge/-Qdrant-000000?logo=qdrant&logoColor=white&style=for-the-badge)
 ![Polly](https://img.shields.io/badge/-Polly-512BD4?logo=.net&logoColor=white&style=for-the-badge)
+![gRPC](https://img.shields.io/badge/-gRPC-4285F4?logo=google&logoColor=white&style=for-the-badge)
+![Ocelot](https://img.shields.io/badge/-Ocelot-512BD4?logo=.net&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
 
 ---
 
