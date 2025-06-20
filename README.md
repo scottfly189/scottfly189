@@ -26,6 +26,15 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![微信小程序](https://img.shields.io/badge/-微信小程序-07C160?logo=wechat&logoColor=white&style=for-the-badge)
 ![微信公众号](https://img.shields.io/badge/-微信公众号-000000?logo=wechat&logoColor=white&style=for-the-badge)
+![Element Plus](https://img.shields.io/badge/-Element%20Plus-409EFF?logo=element&logoColor=white&style=for-the-badge)
+![Element Plus X](https://img.shields.io/badge/-Element%20Plus%20X-409EFF?logo=element&logoColor=white&style=for-the-badge)
+![TDesign](https://img.shields.io/badge/-TDesign-0052D9?logo=tencent&logoColor=white&style=for-the-badge)
+![Vant](https://img.shields.io/badge/-Vant-1989FA?logo=vant&logoColor=white&style=for-the-badge)
+![GetX](https://img.shields.io/badge/-GetX-02569B?logo=flutter&logoColor=white&style=for-the-badge)
+![Go Router](https://img.shields.io/badge/-Go%20Router-02569B?logo=flutter&logoColor=white&style=for-the-badge)
+![Dio](https://img.shields.io/badge/-Dio-02569B?logo=flutter&logoColor=white&style=for-the-badge)
+![Vue I18n](https://img.shields.io/badge/-Vue%20I18n-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
+![Intl](https://img.shields.io/badge/-Intl-02569B?logo=flutter&logoColor=white&style=for-the-badge)
 
 ### 🔧 后端技能
 
