@@ -1,8 +1,8 @@
 # 👨‍💻 Hi, I'm Alex Zhao
 
-[![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)](README.md)
-[![简体中文](https://img.shields.io/badge/Language-简体中文-red?style=for-the-badge)](README_cn.md)
-[![繁體中文](https://img.shields.io/badge/Language-繁體中文-green?style=for-the-badge)](README_tw.md)
+[![ENGLISH](https://img.shields.io/badge/ENGLISH-blue?style=for-the-badge)](README.md)
+[![简体中文](https://img.shields.io/badge/简体中文-red?style=for-the-badge)](README_cn.md)
+[![繁體中文](https://img.shields.io/badge/繁體中文-green?style=for-the-badge)](README_tw.md)
 
 ![Profile views](https://komarev.com/ghpvc/?username=scottfly189&style=flat-square)
 
