@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=scottfly189&style=flat-square)
 
-🚀 一位经验丰富的全栈工程师，拥有二十多年项目研发与架构经验，擅长前后端一体化开发，热爱远程工作，自由开发，热衷开源项目 🤝
+🚀 一位经验丰富的全栈工程师，拥有二十多年项目研发与架构经验，擅长前后端一体化开发,擅长国际化开发与人工智能驱动的应用开发，热爱远程工作，自由开发，热衷开源项目 🤝
 
 ---
 
@@ -97,10 +97,8 @@
 
 ## 📫 联系方式
 
-- ✉️ 邮箱：scottfly189@gmail.com  
-- 💬 微信：请发送邮件获取
-- 🌐 个人博客（建设中）：[scottfly.dev](https://scottfly.dev)
-- 🧰 示例项目演示：正在部署中（支持 GitHub Pages / Render / Vercel）
+- ✉️ 邮箱：alexzhao189@gmail.com 
+- 💬 X: ![x](https://x.com/flyscott424039)
 
 ---
 
