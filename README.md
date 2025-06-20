@@ -46,6 +46,7 @@
 ![Ocelot](https://img.shields.io/badge/-Ocelot-512BD4?logo=.net&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![DDD](https://img.shields.io/badge/-DDD-512BD4?logo=.net&logoColor=white&style=for-the-badge)
 
 ---
 
