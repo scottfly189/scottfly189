@@ -1,101 +1,93 @@
-## Hi there 👋
+# 👨‍💻 Hi, I'm Alex Zhao
 
-<!--
-**PZ688/PZ688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=scottfly189&style=flat-square)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div align="center">
-    <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status">
-    <img src="https://img.shields.io/badge/Language-Multiple-blue?style=for-the-badge" alt="Language">
-    <img src="https://img.shields.io/badge/Platform-Web%20%7C%20Mobile-orange?style=for-the-badge" alt="Platform">
-</div>
-
-## 🚀 Overview
-
-Project Zoom is a comprehensive management system designed specifically for construction sites. It aims to improve site management efficiency, transparency, and collaboration through digital means.
-
-### 🎯 Key Features
-
-- **Task Management**
-  
-  - Work task allocation
-  - Progress tracking
-  - Real-time updates
-
-- **Safety Control**
-  
-  - Safety training management
-  - Incident reporting
-  - Compliance monitoring
-
-- **Resource Optimization**
-  
-  - Resource allocation
-  - Performance analytics
-  - Cost management
-
-## 💡 Core Benefits
-
-- ✨ Simplified work processes
-- 📈 Enhanced project management
-- 🔄 Reduced information delays
-- 💪 Improved quality control
-- 🌍 Multi-language support
-
-## 🌐 International Support
-
-Project Zoom supports multiple languages and time zones, making it ideal for:
-
-- Global construction projects
-- International team collaboration
-- Cross-border operations
-
-## 🛠 Technical Features
-
-- **Platform Support**
-  
-  - Web Application
-  - Mobile Apps (iOS & Android)
-  - Desktop Applications
-
-- **Security**
-  
-  - End-to-end encryption
-  - Role-based access control
-  - Regular security audits
-
-## 📞 Contact
-
-For more information, please contact us:
-
-- 📧 Email: info@projectzoom.com
-- 🌐 Website: [https://pz688.github.io/](https://pz688.github.io)
-- 📱 Phone: +1 (555) 123-4567
-
-## 📄 License
-
-Copyright © 2023 Project Zoom. All rights reserved.
+🚀 一位经验丰富的全栈工程师，拥有二十多年项目研发与架构经验，擅长前后端一体化开发，热爱远程工作，自由开发，热衷开源项目 🤝
 
 ---
 
-<div align="center">
-    <p>
-        <a href="https://github.com/pz688/pz688.github.io">
-            <img src="https://img.shields.io/github/stars/pz688/pz688.github.io?style=social" alt="Stars">
-        </a>
-        <a href="https://github.com/pz688/pz688.github.io/fork">
-            <img src="https://img.shields.io/github/forks/pz688/pz688.github.io?style=social" alt="Forks">
-        </a>
-    </p>
-</div>
+## 💡 关于我
+
+- 🧠 精通现代前端与后端开发技术，擅长构建高性能、高质量、高可维护性应用；
+- 🛠️ 长期实践微服务架构、RESTful API设计、SSE流式服务、云开发等；
+- 🌍 拥抱远程协作，擅长独立开发，也乐于参与分布式协作团队；
+- 💬 中文/英文流利沟通，热爱技术写作与知识分享。
+
+---
+
+## 🧰 技术徽章
+
+### 🌐 前端技能
+
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
+![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?logo=nuxt.js&logoColor=white&style=for-the-badge)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![微信小程序](https://img.shields.io/badge/-微信小程序-07C160?logo=wechat&logoColor=white&style=for-the-badge)
+![微信公众号](https://img.shields.io/badge/-微信公众号-000000?logo=wechat&logoColor=white&style=for-the-badge)
+
+### 🔧 后端技能
+
+![C#](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Flutter后端](https://img.shields.io/badge/-Flutter%20Backend-02569B?logo=flutter&logoColor=white&style=for-the-badge)
+
+---
+
+## 📊 技术能力表
+
+| 技术领域   | 子项         | 熟练度⭐(1-5) | 备注                | 证明方式            |
+| ------ | ---------- | --------- | ----------------- | --------------- |
+| 前端开发   | Vue        | ⭐⭐⭐⭐⭐     | 大型项目实践，组件库设计经验    | GitHub项目、远程代码面试 |
+| 前端开发   | Nuxt       | ⭐⭐⭐⭐      | SSR/SPA项目经验       | GitHub项目        |
+| 前端开发   | Flutter    | ⭐⭐⭐⭐      | 多端统一UI开发          | Demo展示          |
+| 前端开发   | TypeScript | ⭐⭐⭐⭐      | 偏爱TS编写严谨代码        | GitHub源码        |
+| 小程序    | 微信小程序      | ⭐⭐⭐⭐⭐     | 多行业实战经验           | 小程序演示、云开发       |
+| 小程序    | 微信公众号H5    | ⭐⭐⭐⭐      | 与小程序互联互通经验        | 微信演示链接          |
+| 后端开发   | C# (.NET)  | ⭐⭐⭐⭐⭐     | Web API、高并发、SSE服务 | 项目源码、演示         |
+| 后端开发   | Node.js    | ⭐⭐⭐⭐      | Express/Koa开发经验   | GitHub代码        |
+| 架构     | 微服务        | ⭐⭐⭐⭐      | 模块解耦、Token鉴权等设计   | 架构图+源码          |
+| DevOps | CI/CD      | ⭐⭐⭐       | GitHub Actions经验  | 实战配置文件          |
+| 数据库    | SQL/MySQL  | ⭐⭐⭐⭐      | 熟练索引设计与查询优化       | 项目中的SQL脚本       |
+| 云服务    | 微信云开发      | ⭐⭐⭐⭐      | 云函数/数据库/小程序码      | 演示项目            |
+
+---
+
+## 🌍 求职目标
+
+🎯 寻找远程开发岗位，理想方向包括：
+
+- 前端开发工程师（Vue/Nuxt/Flutter）
+- 全栈工程师（前后端一体）
+- 小程序/公众号独立开发者
+- 技术合伙人（支持创业项目）
+
+希望加入注重**技术质量**、**自由协作**、**长期发展**的团队💼。
+
+---
+
+## 📫 联系方式
+
+- ✉️ 邮箱：scottfly189@gmail.com  
+- 💬 微信：请发送邮件获取
+- 🌐 个人博客（建设中）：[scottfly.dev](https://scottfly.dev)
+- 🧰 示例项目演示：正在部署中（支持 GitHub Pages / Render / Vercel）
+
+---
+
+## ☕ 一些个性标签
+
+- 🧘 自律的自由开发者
+- 🐱 爱猫人士，逻辑清晰
+- 🔬 热衷效率工具与知识管理
+- 🧭 终身学习者，拥抱 AI 时代
+- 🧳 梦想成为可以在世界各地写代码的数字游民
+
+---
+
+> “代码是我与世界对话的语言，而远程协作是我的生活方式。”
+
+---
+
+⭐️ 欢迎Star我的项目，一起探索更自由高效的开发之路！
