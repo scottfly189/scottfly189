@@ -98,7 +98,7 @@
 ## 📫 联系方式
 
 - ✉️ 邮箱：alexzhao189@gmail.com 
-- 💬 X: ![x](https://x.com/flyscott424039)
+- 💬 X: [x](https://x.com/flyscott424039)
 
 ---
 
