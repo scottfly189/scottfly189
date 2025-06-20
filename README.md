@@ -1,23 +1,27 @@
 # 👨‍💻 Hi, I'm Alex Zhao
 
+[![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)](README.md)
+[![简体中文](https://img.shields.io/badge/Language-简体中文-red?style=for-the-badge)](README_cn.md)
+[![繁體中文](https://img.shields.io/badge/Language-繁體中文-green?style=for-the-badge)](README_tw.md)
+
 ![Profile views](https://komarev.com/ghpvc/?username=scottfly189&style=flat-square)
 
-🚀 一位经验丰富的全栈工程师，拥有二十多年项目研发与架构经验，擅长前后端一体化开发,擅长国际化开发与人工智能驱动的应用开发，热爱远程工作，自由开发，热衷开源项目 🤝
+🚀 An experienced full-stack engineer with over 20 years of project development and architecture experience, specializing in frontend-backend integrated development, internationalization development, and AI-driven application development. Passionate about remote work, freelance development, and open-source projects 🤝
 
 ---
 
-## 💡 关于我
+## 💡 About Me
 
-- 🧠 精通现代前端与后端开发技术，擅长构建高性能、高质量、高可维护性应用；
-- 🛠️ 长期实践微服务架构、RESTful API设计、SSE流式服务、云开发等；
-- 🌍 拥抱远程协作，擅长独立开发，也乐于参与分布式协作团队,做为多个开源项目的贡献者，也开源了自己的前后端分离、国际化(支持19国语言)、人工智能大模型驱动的权限框架[kvector](https://github.com/scottfly189/kvector),欢迎star；
-- 💬 中文/英文流利沟通，热爱技术写作与知识分享。
+- 🧠 Proficient in modern frontend and backend development technologies, skilled in building high-performance, high-quality, and highly maintainable applications;
+- 🛠️ Long-term practice in microservices architecture, RESTful API design, SSE streaming services, cloud development, etc.;
+- 🌍 Embracing remote collaboration, skilled in independent development, and also enjoys participating in distributed collaborative teams. As a contributor to multiple open-source projects, I've also open-sourced my own frontend-backend separation, internationalization (supporting 19 languages), AI large model-driven permission framework [kvector](https://github.com/scottfly189/kvector), welcome to star;
+- 💬 Fluent in Chinese/English communication, passionate about technical writing and knowledge sharing.
 
 ---
 
-## 🧰 技术徽章
+## 🧰 Technical Badges
 
-### 🌐 前端技能
+### 🌐 Frontend Skills
 
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
 ![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?logo=nuxt.js&logoColor=white&style=for-the-badge)
@@ -27,8 +31,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge)
-![微信小程序](https://img.shields.io/badge/-微信小程序-07C160?logo=wechat&logoColor=white&style=for-the-badge)
-![微信公众号](https://img.shields.io/badge/-微信公众号-000000?logo=wechat&logoColor=white&style=for-the-badge)
+![WeChat Mini Program](https://img.shields.io/badge/-WeChat%20Mini%20Program-07C160?logo=wechat&logoColor=white&style=for-the-badge)
+![WeChat Official Account](https://img.shields.io/badge/-WeChat%20Official%20Account-000000?logo=wechat&logoColor=white&style=for-the-badge)
 ![Element Plus](https://img.shields.io/badge/-Element%20Plus-409EFF?logo=element&logoColor=white&style=for-the-badge)
 ![Element Plus X](https://img.shields.io/badge/-Element%20Plus%20X-409EFF?logo=element&logoColor=white&style=for-the-badge)
 ![TDesign](https://img.shields.io/badge/-TDesign-0052D9?logo=tencent&logoColor=white&style=for-the-badge)
@@ -39,12 +43,12 @@
 ![Vue I18n](https://img.shields.io/badge/-Vue%20I18n-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
 ![Intl](https://img.shields.io/badge/-Intl-02569B?logo=flutter&logoColor=white&style=for-the-badge)
 
-### 🔧 后端技能
+### 🔧 Backend Skills
 
 ![C#](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white&style=for-the-badge)
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?logo=.net&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Flutter后端](https://img.shields.io/badge/-Flutter%20Backend-02569B?logo=flutter&logoColor=white&style=for-the-badge)
+![Flutter Backend](https://img.shields.io/badge/-Flutter%20Backend-02569B?logo=flutter&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
@@ -62,59 +66,59 @@
 
 ---
 
-## 📊 技术能力表
+## 📊 Technical Skills Table
 
-| 技术领域   | 子项         | 熟练度⭐(1-5) | 备注                | 证明方式/近期项目           |
+| Technical Area | Sub-item | Proficiency⭐(1-5) | Notes | Proof/Recent Projects |
 | ------ | ---------- | --------- | ----------------- | --------------- |
-| 前端开发   | Vue/vue-i18n/element plus        | ⭐⭐⭐⭐⭐     | 大型项目实践   | [kvecotr权限框架](https://github.com/scottfly189/kvector)/膳中膳百业平台/pz建筑工程系统 |
-| 前端开发   | Nuxt       | ⭐⭐⭐⭐      | SSR/SPA项目经验       |[kvecotr权限框架](https://github.com/scottfly189/kvector)/projectzoom         |
-| 前端开发   | Flutter    | ⭐⭐⭐⭐⭐      | 多端统一UI开发          | projectzoom/物流智能扫码          |
-| 前端开发   | TypeScript | ⭐⭐⭐⭐      | 偏爱TS编写严谨代码        | [kvecotr权限框架](https://github.com/scottfly189/kvector) / 膳中膳百业平台        |
-| 小程序    | 微信小程序      | ⭐⭐⭐⭐⭐     | 多行业实战经验           | 膳中膳百业平台/危险废物管理系统       |
-| 小程序    | 微信公众号H5    | ⭐⭐⭐⭐      | 与小程序互联互通经验        | 膳中膳百业平台/危险废物管理系统          |
-| 后端开发   | C# (.NET)  | ⭐⭐⭐⭐⭐     | Web API、高并发、SSE服务 | [kvecotr权限框架] / 膳中膳百业平台 /projectzoom        |
-| 后端开发   | Node.js    | ⭐⭐⭐⭐      | js/ts/Express开发经验   | GitHub代码        |
-| 架构     | 微服务        | ⭐⭐⭐⭐      | 模块解耦、Token鉴权等设计   | 架构图+源码          |
-| DevOps | CI/CD      | ⭐⭐⭐       | GitHub Actions经验  | 实战配置文件          |
-| 数据库    | MySQL/pg/no-sql  | ⭐⭐⭐⭐      | 熟练索引设计与查询优化       | 项目中的SQL脚本       |
-| 云服务    | 微信云开发      | ⭐⭐⭐⭐⭐      | 云函数/数据库/小程序码      | 膳中膳百业平台            |
-| 人工智能    | Semantic Kernel      | ⭐⭐⭐⭐⭐      | LLM驱动      | [kvecotr权限框架](https://github.com/scottfly189/kvector) / Project zoom            |
-| 沟通能力    |      | ⭐⭐⭐⭐⭐      | 擅长需求分析、客户需求挖掘      |             |
-| 产品研发能力    |      | ⭐⭐⭐⭐⭐      | 擅长挖掘客户痛点，形成产品，擅长以MVP方式验证客户需求      |             |
----
-
-## 🌍 求职目标
-
-🎯 寻找远程开发岗位，理想方向包括：
-
-- 前端开发工程师（Vue/Nuxt/Flutter/微信小程序/微信公众号）、后端开发工程师(.net core/node)、 全栈工程师（前后端一体）
-- 人工智能应用工程师(Semantic Kernel/RAG/MCP方向)
-
-
-希望加入注重**技术质量**、**自由协作**、**长期发展**的团队💼。
+| Frontend Development | Vue/vue-i18n/element plus | ⭐⭐⭐⭐⭐ | Large project practice | [kvector permission framework](https://github.com/scottfly189/kvector)/Shanzhongshan multi-industry platform/PZ construction engineering system |
+| Frontend Development | Nuxt | ⭐⭐⭐⭐ | SSR/SPA project experience | [kvector permission framework](https://github.com/scottfly189/kvector)/projectzoom |
+| Frontend Development | Flutter | ⭐⭐⭐⭐⭐ | Multi-platform unified UI development | projectzoom/logistics intelligent scanning |
+| Frontend Development | TypeScript | ⭐⭐⭐⭐ | Prefer TS for rigorous code writing | [kvector permission framework](https://github.com/scottfly189/kvector) / Shanzhongshan multi-industry platform |
+| Mini Program | WeChat Mini Program | ⭐⭐⭐⭐⭐ | Multi-industry practical experience | Shanzhongshan multi-industry platform/hazardous waste management system |
+| Mini Program | WeChat Official Account H5 | ⭐⭐⭐⭐ | Mini program interconnection experience | Shanzhongshan multi-industry platform/hazardous waste management system |
+| Backend Development | C# (.NET) | ⭐⭐⭐⭐⭐ | Web API, high concurrency, SSE services | [kvector permission framework] / Shanzhongshan multi-industry platform / projectzoom |
+| Backend Development | Node.js | ⭐⭐⭐⭐ | js/ts/Express development experience | GitHub code |
+| Architecture | Microservices | ⭐⭐⭐⭐ | Module decoupling, Token authentication design | Architecture diagrams + source code |
+| DevOps | CI/CD | ⭐⭐⭐ | GitHub Actions experience | Practical configuration files |
+| Database | MySQL/pg/no-sql | ⭐⭐⭐⭐ | Skilled in index design and query optimization | SQL scripts in projects |
+| Cloud Services | WeChat Cloud Development | ⭐⭐⭐⭐⭐ | Cloud functions/database/mini program codes | Shanzhongshan multi-industry platform |
+| Artificial Intelligence | Semantic Kernel | ⭐⭐⭐⭐⭐ | LLM-driven | [kvector permission framework](https://github.com/scottfly189/kvector) / Project zoom |
+| Communication Skills | | ⭐⭐⭐⭐⭐ | Skilled in requirement analysis and customer need mining | |
+| Product Development | | ⭐⭐⭐⭐⭐ | Skilled in mining customer pain points, forming products, and validating customer needs through MVP approach | |
 
 ---
 
-## 📫 联系方式
+## 🌍 Job Goals
 
-- ✉️ 邮箱：alexzhao189@gmail.com 
+🎯 Looking for remote development positions, ideal directions include:
+
+- Frontend Development Engineer (Vue/Nuxt/Flutter/WeChat Mini Program/WeChat Official Account), Backend Development Engineer (.NET Core/Node), Full-stack Engineer (frontend-backend integration)
+- AI Application Engineer (Semantic Kernel/RAG/MCP direction)
+
+Hope to join teams that value **technical quality**, **free collaboration**, and **long-term development** 💼.
+
+---
+
+## 📫 Contact Information
+
+- ✉️ Email: alexzhao189@gmail.com 
 - ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge): [@flyscott424039](https://x.com/flyscott424039)
 - ![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge): [Facebook](https://www.facebook.com/share/19Ch4HpQJA/?mibextid=qi2Omg)
 
 ---
 
-## ☕ 一些个性标签
+## ☕ Some Personal Tags
 
-- 🧘 自律的自由开发者
-- 🐱 爱猫人士，逻辑清晰
-- 🔬 热衷效率工具与知识管理
-- 🧭 终身学习者，拥抱 AI 时代
-- 🧳 梦想成为可以在世界各地写代码的数字游民
-
----
-
-> "代码是我与世界对话的语言，而远程协作是我的生活方式。"
+- 🧘 Self-disciplined freelance developer
+- 🐱 Cat lover, logical and clear thinking
+- 🔬 Passionate about efficiency tools and knowledge management
+- 🧭 Lifelong learner, embracing the AI era
+- 🧳 Dreaming of becoming a digital nomad who can write code around the world
 
 ---
 
-⭐️ 欢迎Star我的项目，一起探索更自由高效的开发之路！
+> "Code is my language to communicate with the world, and remote collaboration is my way of life."
+
+---
+
+⭐️ Welcome to star my projects, let's explore a freer and more efficient development path together!
