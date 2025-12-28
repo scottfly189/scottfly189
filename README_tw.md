@@ -11,6 +11,6 @@
 - 🧭 終身學習者，擁抱 AI 時代
 - 🧳 夢想成為可以在世界各地寫代碼的數字遊民
 
-<img src="images/scan_me.jpg" alt="加我为好友" width="500"/>
+<img src="images/scan_me.jpg" alt="加我为好友" width="400"/>
 
 > 如果您想加好友，請註明「開源交流」，以便通過，非常感謝您的支持與理解！
