@@ -13,6 +13,6 @@
 - 🧭 Lifelong learner, embracing the AI era
 - 🧳 Dreaming of becoming a digital nomad who can write code around the world
 
-<img src="images/scan_me.jpg" alt="Scan to add me as a friend" width="500"/>
+<img src="images/scan_me.jpg" alt="Scan to add me as a friend" width="400"/>
 
 > If you'd like to connect, please mention "open source collaboration" in your request to help me verify you—thank you so much for your support and understanding!
