@@ -6,13 +6,10 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=scottfly189&style=flat-square)
 
-
 - 🧘 自律的自由开发者
 - 🐱 爱猫人士，逻辑清晰
 - 🔬 热衷效率工具与知识管理
 - 🧭 终身学习者，拥抱 AI 时代
 - 🧳 梦想成为可以在世界各地写代码的数字游民
-
 <img src="images/scan_me.jpg" alt="加我为好友" width="400"/>
-
 > 如果您想加好友，烦请备注“开源交流”，方便通过，非常感谢支持与理解！
