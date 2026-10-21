@@ -1,11 +1,11 @@
 ## WeChatAuto.SDK VIP
 
-<table style="width:900px;">
+<table width="100%">
   <tr>
-    <td>
+    <td width="80%">
       <strong><span style="font-size: 24px;">WeChatAuto.SDK VIP</span></strong>
     </td>
-    <td align="right">
+    <td width="20%" align="right">
       <sub>年度订阅</sub>
     </td>
   </tr>
