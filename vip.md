@@ -13,7 +13,7 @@
     <td colspan="2">
       <strong><span style="font-size: 28px;">¥499</span></strong><br>
       / 年
-      <p>让微信 Agent 开发更高效、更省心。</p>
+      <p>少走弯路，少花时间，把精力留给你的应用安全快速的集成微信能力!</p>
       <hr>
       <ul>
         <li>社区版：核心能力开源，免费使用</li>
