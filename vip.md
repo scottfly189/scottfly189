@@ -18,7 +18,7 @@
       <ul>
         <li>社区版：核心能力开源，免费使用</li>
         <li>VIP 版：解锁 VIP 专属功能与权益</li>
-        <li>具体功能：查看社区版与 VIP 版功能对比</li>
+        <li>具体功能：查看<a href='https://github.com/scottfly189/WeChatAuto.SDK/blob/master/docs/ability.md'>社区版与 VIP 版功能对比</a></li>
       </ul>
     </td>
   </tr>
