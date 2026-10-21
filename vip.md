@@ -1,6 +1,6 @@
 ## WeChatAuto.SDK VIP
 
-<table style="width:100%;">
+<table style="width:900px;">
   <tr>
     <td>
       <strong><span style="font-size: 24px;">WeChatAuto.SDK VIP</span></strong>
@@ -23,8 +23,6 @@
     </td>
   </tr>
 </table>
-
----
 
 > [!IMPORTANT]
 > 如需升级成为 VIP，或了解 VIP 具体权益和支持方案，请加我为好友,
