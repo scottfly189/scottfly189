@@ -22,7 +22,6 @@
     </td>
   </tr>
 </table>
-</table>
 
 > [!IMPORTANT]
 > 如需升级成为 VIP，或了解 VIP 具体权益和支持方案，请加我为好友,
