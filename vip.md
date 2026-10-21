@@ -2,18 +2,19 @@
 
 <table>
   <tr>
-    <td width="900">
-      <strong>WeChatAuto.SDK VIP</strong>
-      <span>年度订阅</span>
-
-      <h1>¥499</h1>
-
-      <p>/ 年</p>
-
+    <td>
+      <strong><span style="font-size: 24px;">WeChatAuto.SDK VIP</span></strong>
+    </td>
+    <td align="right">
+      <sub>年度订阅</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <strong><span style="font-size: 28px;">¥499</span></strong><br>
+      / 年
       <p>让微信 Agent 开发更高效、更省心。</p>
-
       <hr>
-
       <ul>
         <li>社区版：核心能力开源，免费使用</li>
         <li>VIP 版：解锁 VIP 专属功能与权益</li>
