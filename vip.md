@@ -1,4 +1,4 @@
-## WeChatAuto.SDK VIP
+## WECHATAUTO.SDK VIP
 
 <table>
   <tr>
